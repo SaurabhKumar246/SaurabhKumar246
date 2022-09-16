@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Web Technologies
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... you cant 
 - 
 
 <!---
